@@ -11,3 +11,5 @@ S
 #tests/multiversal-consensus.test.ts,1/e/1eb65d276513c2501fe2b4fdd6949f9d668f5ad0
 U
 %contracts/fork-impact-simulation.clar,5/5/55475daf2499cf6a5b3e6eb3689a9b05f1214870
+T
+$tests/fork-impact-simulation.test.ts,5/d/5dadbe121f2ac28848861ca720833d79a810b249
