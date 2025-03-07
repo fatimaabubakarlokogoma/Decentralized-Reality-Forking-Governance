@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.multiversal-consensus]
+path = 'contracts/multiversal-consensus.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.reality-branch-proposal]
 path = 'contracts/reality-branch-proposal.clar'
 clarity_version = 2
