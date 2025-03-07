@@ -7,3 +7,5 @@ U
 %tests/reality-branch-proposal.test.ts,6/9/690def64fe17148a26ec9d94d09d88a7979836c1
 T
 $contracts/multiversal-consensus.clar,1/c/1ccb455f7e38ec15618f65afa2adac348319bdf3
+S
+#tests/multiversal-consensus.test.ts,1/e/1eb65d276513c2501fe2b4fdd6949f9d668f5ad0
